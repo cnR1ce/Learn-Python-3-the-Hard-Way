@@ -1,0 +1,10 @@
+
+
+Next Step
+
+The process that I usually follow is as follows:
+1. Get a book or some introductory text about the language.
+2. Go through the book and type in all of the code, making all of it run.
+3. Read the book as you work on the code, taking notes.
+4. Use the language to implement a small set of programs you are familiar with in another language.
+5. Read other people’s code in the language, and try to copy their patterns.

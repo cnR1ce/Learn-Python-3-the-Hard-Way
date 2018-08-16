@@ -1,0 +1,29 @@
+Windows
+If you’re using Windows then here’s your list of commands:
+pwd print working directory
+hostname my computer’s network name
+mkdir make directory
+cd change directory
+ls list directory
+rmdir remove directory
+pushd push directory
+popd pop directory
+cp copy a ﬁle or directory
+robocopy robust copy
+mv move a ﬁle or directory
+more page through a ﬁle
+type print the whole ﬁle
+ptg20573278
+COMMANDLINECRASHCOURSE 253
+forﬁles run a command on lots of ﬁles
+dir-r ﬁnd ﬁles
+select-string ﬁnd things inside ﬁles
+help read a manual page
+helpctr ﬁnd what manual page is appropriate
+echo print some arguments
+set export/set a new environment variable
+exit exit the shell
+runas DANGER! become super user root DANGER!
+
+
+Drill, drill, drill! Drill until you can say these phrases right away when you see that word. Then drill the inverse,sothatyoureadthephraseandknowwhatcommandwilldothat.You’rebuildingyourvocabulary by doing this, but don’t spend so much time you go nuts and get bored.
